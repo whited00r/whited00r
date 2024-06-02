@@ -1,10 +1,12 @@
 ## Whited00r
 
-this repository contains a mess of various source codes I stumbled upon, with some things redacted, removed, or missing in general from where it was found.
+this repository contains a mess of various source codes I stumbled upon, while reaching out to some people from the project.
+
+Some things redacted, removed, or missing in general from where it was found.
 
 Still tons of interesting things though, to some maybe. Or maybe, a relic of the past lost to the ether. 
 
-One of the developers passed this along - do not think this is all me. Was around for using it, knew about the inner workings, but just a drifter.
+One of the developers passed this along - do not think this is mine. Was around for using it, knew about the inner workings, but just a drifter.
 
 It is some unreleased code too - no promise of it working, not bricking devices, and so on. 
 
