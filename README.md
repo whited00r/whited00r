@@ -1,5 +1,7 @@
 ## Whited00r
 
+make no mistake, this is shit code.  It got better towards grayd00r, but still shit.
+
 this repository contains a mess of various source codes I stumbled upon, while reaching out to some people from the project.
 
 Some things redacted, removed, or missing in general from where it was found.
