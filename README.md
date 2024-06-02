@@ -14,7 +14,7 @@ It is some unreleased code too - no promise of it working, not bricking devices,
 
 if there are any legally iffy things here (maybe a missed class dump, if that counts, a font not deleted), please reach out and it will be fixed. 
 
-No harm intended, the project at the time was very legally grey, but also most people involved were children too, and many with no wish to be associated with this anymore. 
+No harm intended, the project at the time was legally grey for parts of it, but also most people involved were children too (explanation, not excuse), and many with no wish to be associated with this anymore. 
 
 all that is shared here should be all above board.
 
