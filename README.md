@@ -29,3 +29,11 @@ there are some neat things here, that never saw the light of day.
 Custom lockscreens with a modular backend. Startings of a modular UI, modular control panel and more. 
 
 Aspirations beyond the grasp at the time.
+
+
+## issues
+
+look, this will never get touched again by me. Merely a messenger, or remover of any lingering files that should not be here. 
+
+Submit them, but it will be to no use. Fork it and maintain it.  This is just for history at this point. 
+
